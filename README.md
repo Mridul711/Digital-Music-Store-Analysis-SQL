@@ -30,7 +30,7 @@ Using **Complex SQL Queries** via Python's `sqlite3` library, I extracted action
 ## ⚙️ How to Run
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/Mridul711/Digital-Music-Store-Analysis-SQL.git](https://github.com/Mridul711/Digital-Music-Store-Analysis-SQL.git)
+    git clone https://github.com/Mridul711/Digital-Music-Store-Analysis-SQL.git
     ```
 2.  **Run the Analysis:**
     ```bash
